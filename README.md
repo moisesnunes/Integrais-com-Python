@@ -30,5 +30,5 @@ ___
 ### Métodos de Integração Numérica
 
 Nosso foco aqui será em calcular integrais definidas na forma $\ I(f)= \int_{a}^{b} f(x) dx\$, com os limites de integração dados em _a_ e _b_. O intervalo [_a_,_b_] pode ser finito; semi-infinito (em que ambos _a_ = - $\{\infty}\$ ou b = $\{\infty}\$ ); ou infinito (em que ambos _a_ = - $\{\infty}\$ ou b = $\{\infty}\$ ).
-A integral $\ I(f) \$ pode ser interpretada como a área entre a curva do integrando $\ f(x) \$ e o eixo _x_, como ilustrado na figura a baixo.
+A integral $\ I(f)\$ pode ser interpretada como a área entre a curva do integrando $\ f(x)\$ e o eixo _x_, como ilustrado na figura a baixo.
 
